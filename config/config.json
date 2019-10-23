@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "title": "Vídeos e Canais mais recomendados",
+        "subtitle": "ao buscar no YouTube",
+        "sideBarTitle": "Palavra"
+    },
+    "language": "pt",
+    "period" : {
+        "start": "2019-09-03",
+        "end": "2019-10-22"
+    },
+    "dataset": {
+        "path": "./dataset/"
+    },
+    "terms": [
+        {
+            "name": "Bolsonaro",
+            "slug": "youtube-scrape-cron-Bolsonaro"
+        },{
+            "name": "Lula",
+            "slug": "youtube-scrape-cron-Lula"
+        },{
+            "name": "Rodrigo Maia",
+            "slug": "youtube-scrape-cron-Rodrigo Maia"
+        },{
+            "name": "Haddad",
+            "slug": "youtube-scrape-cron-Haddad"
+        }
+    ]
+}
