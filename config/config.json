@@ -5,9 +5,9 @@
         "sideBarTitle": "Palavra"
     },
     "language": "pt",
-    "period" : {
+    "period": {
         "start": "2019-09-03",
-        "end": "2019-10-31"
+        "end": "2019-11-04"
     },
     "dataset": {
         "path": "./dataset/"
@@ -16,13 +16,16 @@
         {
             "name": "Bolsonaro",
             "slug": "youtube-scrape-cron-Bolsonaro"
-        },{
+        },
+        {
             "name": "Lula",
             "slug": "youtube-scrape-cron-Lula"
-        },{
+        },
+        {
             "name": "Rodrigo Maia",
             "slug": "youtube-scrape-cron-Rodrigo Maia"
-        },{
+        },
+        {
             "name": "Haddad",
             "slug": "youtube-scrape-cron-Haddad"
         }
